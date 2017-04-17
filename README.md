@@ -8,8 +8,6 @@
 
 Feel free to report any bug or development ideas. 
 
-Website = http://plume.dexode.free.fr/tools/convert/convert.html
-
 Version Change = [Link](CHANGE.md)
 
 Author = Mr Eslam Nawara - :fr:
