@@ -8,6 +8,6 @@
 
 ## Contact
 
-- Email Pro (job) - :email: = eslam.nawara_pro@yahoo.com
+- Email Pro (job) - :email: = eslam_magdy.mahmoud@yahoo.com
 
 - Github Profile - :man: = https://github.com/eslamnawara
